@@ -1,2 +1,2 @@
 # Graph-Neural-Network-based-Federated-Learning-for-Heterogenous-Device-Network
-# FDB!!!
+# This is Simulation & Experiment Code for Graph-Neural-Network-based-Federated-Learning-for-Heterogenous-Device-Network
