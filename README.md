@@ -11,7 +11,7 @@ learns from the graph-type dataset and can perform tasks such as node clustering
 each node (in this case, the device). GDFed is an architecture that clusters devices using pre-trained GNN models and proceeds with
 federated learning, taking into account the current capabilities of each device. In the experiment, we show the GDFed method
 outperforms the Fedavg method by 43.3% in reducing the delay time.
-![image info](./GDFedFig.pdf)
+![image info](./GDFedFig.png)
 
 ## License
 Copyright (c) 2022 Networking Intelligence
